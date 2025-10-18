@@ -1,1 +1,1 @@
-# Multi-view_Heterogeneous_Graph_Contrastive_Learning_DMD_Association_Prediction
+# Multi-modal_Heterogeneous_Graph_Contrastive_Learning_DMD_Association_Prediction
